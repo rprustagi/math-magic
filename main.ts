@@ -1,0 +1,1 @@
+effects.starField.startScreenEffect()
